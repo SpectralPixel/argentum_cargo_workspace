@@ -1,8 +1,5 @@
 /target
-/argentum_game
-/argentum_game_coordinate_system
-/argentum_game_voxel
-/argentum_game_world_data
-/argentum_game_world_generator
+
+/argentum_game*
 
 Cargo.lock
